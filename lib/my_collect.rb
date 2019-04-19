@@ -8,5 +8,4 @@ def my_collect(collection)
   modified_collection
 end
 
-my_collect
 
